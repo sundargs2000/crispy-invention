@@ -10,3 +10,5 @@ inputs:
 configs:
   environments:
     - name: ff
+      parameters:
+        wait-timer: 6
